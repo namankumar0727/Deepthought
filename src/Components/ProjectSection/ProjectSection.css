@@ -1,0 +1,51 @@
+
+.project-section {
+    padding: 15px 60px;
+    text-align: left;
+  }
+  
+  .project-title {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .project-title h1 {
+    font-size: 24px;
+    color: rgba(0, 41, 255, 1);
+    font-weight: 800;
+  }
+  
+  .submit-task-btn {
+    padding: 10px 20px;
+    font-size: 14px;
+    background-color: rgba(0, 41, 255, 1);
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+  
+  .submit-task-btn:hover {
+    background-color: #1659cc;
+  }
+  
+  .project-description {
+    padding: 20px;
+    background-color: rgba(233, 236, 239, 1);
+    border-radius: 5px;
+  }
+  
+  .project-description h2 {
+    font-size: 18px;
+    font-weight: 800;
+    color: #222;
+  }
+  
+  .project-description p {
+    color: rgba(0, 0, 0, 1);
+    font-size: 16px;
+    font-weight:400;
+    line-height: 1.5;
+  }

@@ -1,0 +1,54 @@
+
+.card{
+    border: 1px solid#ccc;
+    border-radius: 20px;
+    padding: 16px;
+    Width: 440px;
+    Height: 540px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: #f9f9f9;
+    box-shadow: 1px 1px 5px 1px rgba(0,0,0,0.25);
+    
+  }
+ .paragraph{
+    color: white;
+    background-color: black;
+    height: 30px;
+    border-top-left-radius:10px ;
+    border-top-right-radius:10px ;
+    width: 452px;
+    padding: 10px 10px 10px 10px;
+
+
+
+    margin: -16px;
+    font-size: 18px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+   
+   
+
+ }
+ .paragraph p{
+   padding-left: 100px;
+ }
+
+ .paragraph img{
+   width: 18px;
+   height: 18px;
+   margin-right: 18px;
+   
+ }
+ .description{
+   padding-top: 40px;
+   font-size: 18px;
+   padding-bottom: 20px;
+ }
+ iframe{
+   width: 472px;
+   margin-left: -16px;
+   height: 260px;
+ }

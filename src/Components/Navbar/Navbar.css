@@ -1,0 +1,53 @@
+.nav-wrapper{
+    margin: -10px -10px 0px -10px;
+    
+    
+}
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    flex-direction: row;
+    background-color: rgb(236, 236, 236);
+    padding: 20px 30px;
+    box-shadow: 4px 0px 4px 4px rgba(0, 0, 0, 0.25);
+    margin-bottom: 10px;
+  }
+  
+  .navbar-brand {
+    display: flex;
+    align-items: center;
+
+  }
+  img{
+    height: 40px;
+    width: 200px;
+  }
+  
+  
+  
+  .navbar-icons {
+    display: flex;
+    align-items: center;
+    gap: 18px; 
+  }
+  
+  .icon {
+    width: 26px;
+    height: 28px;
+    cursor: pointer;
+  }
+  
+  .profile-pic {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%; 
+    cursor: pointer;
+  }
+  
+  .more-icon {
+    font-size: 1.5em;
+    cursor: pointer;
+    color: #3683F0;
+  }

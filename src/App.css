@@ -1,0 +1,24 @@
+.app{
+    margin: -7px;
+    padding: 10px;
+    box-sizing: border-box;
+    overflow-x: hidden;
+    
+}
+body{
+    font-family: "Inter", sans-serif;
+}
+.section-1{
+    padding: 40px 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.section-2{
+    padding: 0px 80px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
